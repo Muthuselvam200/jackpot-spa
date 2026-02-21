@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jackpot-spa/static/css/main.745e57cc.css",
+    "main.js": "/jackpot-spa/static/js/main.ea8fff50.js",
+    "static/js/453.0831ff31.chunk.js": "/jackpot-spa/static/js/453.0831ff31.chunk.js",
+    "index.html": "/jackpot-spa/index.html",
+    "main.745e57cc.css.map": "/jackpot-spa/static/css/main.745e57cc.css.map",
+    "main.ea8fff50.js.map": "/jackpot-spa/static/js/main.ea8fff50.js.map",
+    "453.0831ff31.chunk.js.map": "/jackpot-spa/static/js/453.0831ff31.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.745e57cc.css",
+    "static/js/main.ea8fff50.js"
+  ]
+}
