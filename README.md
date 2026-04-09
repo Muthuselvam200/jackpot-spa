@@ -2,7 +2,7 @@
 
 A modern, user-friendly React-based single-page application designed for managing spa services. Built with React and Bootstrap, this application provides a responsive and intuitive interface for spa service browsing and management.
 
-**Live Demo:** [https://Muthuselvam200.github.io/jackpot-spa](https://Muthuselvam200.github.io/jackpot-spa)
+**Live Demo:** [https://muthuselvam-ramesh.github.io/jackpot-spa](https://muthuselvam-ramesh.github.io/jackpot-spa)
 
 ---
 
